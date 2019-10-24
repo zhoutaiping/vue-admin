@@ -1,5 +1,8 @@
 
 ## Getting started
+## vue element-ui, vuex, vue-router, vue-cli3
+## 修改 vue.config.js 里面的代理 ，主要登录接口,如果没有就更改 store -》modele->user  里面的方法
+
 
 ```bash
 # clone the project
