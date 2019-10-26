@@ -1,7 +1,7 @@
 import { asyncRoutes, constantRoutes } from '@/router'
 import store from '@/store'
 import InvokeAllApi from '@/utils/invokeAllApi'
-import * as filterRouter from './filterRouter.js'
+import * as filterRouter from '@/utils/filterRouter.js'
 /**
  * Use meta.role to determine if the current user has permission
  * @param roles
